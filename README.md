@@ -25,8 +25,8 @@ The solution works alongside the inverter that the S100 is typically connected t
   
 | Ethernet cable | TTL to RS485 adaptor |
 | ------------ | ------------ |
-| RJ45 Pin 6 (T568B Green) | A+ | - |
-| RJ45 Pin 3 (T568B Green/White) | B- | - |  
+| RJ45 Pin 8 (T568B Brown) | A+ |
+| RJ45 Pin 6 (T568B Green) | B- |
 
 The Ethernet splitter is connected to the S100, inverter and RS485 adaptor.
 <br />
